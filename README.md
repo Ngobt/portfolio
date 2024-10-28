@@ -8,9 +8,6 @@ With expertise in Python, SQL, and cloud technologies, I have hands-on experienc
 
 I thrive in collaborative environments and have experience working within Agile Scrum frameworks, enabling me to adapt quickly to changing project requirements. I am eager to contribute to data-driven initiatives that enhance business performance and foster informed decision-making. Explore my portfolio to see how I can add value to your team!
 
-# 
-# 
-# 
 
 # Portfolio Projects
 
