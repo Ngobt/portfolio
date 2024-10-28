@@ -1,6 +1,6 @@
 # Brandon's Portfolio
 
-#About Me
+# About Me
 
 * I am an aspiring data scientist with a Bachelor of Science in Information Systems from Virginia Commonwealth University, set to graduate in December 2024. My passion lies in leveraging data to drive strategic decision-making and create impactful solutions.
 
