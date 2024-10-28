@@ -9,7 +9,6 @@ I thrive in collaborative environments and have experience working within Agile 
 
 
 ## Projects
-
 #### Project 1: SQL Database System for Ice Cream Truck Business
 
 * Developed a relational database system in Oracle SQL, focusing on normalizing tables to the third normal form and creating a 12-entity Enhanced Entity-Relationship Diagram (EERD) to address a real-world business scenario.
