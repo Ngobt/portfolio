@@ -1,6 +1,4 @@
-# Brandon's Portfolio
-
-# About Me
+## About Me
 
 I am an aspiring data scientist with a Bachelor of Science in Information Systems from Virginia Commonwealth University, set to graduate in December 2024. My passion lies in leveraging data to drive strategic decision-making and create impactful solutions.
 
@@ -9,9 +7,9 @@ With expertise in Python, SQL, and cloud technologies, I have hands-on experienc
 I thrive in collaborative environments and have experience working within Agile Scrum frameworks, enabling me to adapt quickly to changing project requirements. I am eager to contribute to data-driven initiatives that enhance business performance and foster informed decision-making. Explore my portfolio to see how I can add value to your team!
 
 
-# Portfolio Projects
+## Portfolio Projects
 
-## Project 1: SQL Database System for Ice Cream Truck Business
+####Project 1: SQL Database System for Ice Cream Truck Business
 
 * Developed a relational database system in Oracle SQL, focusing on normalizing tables to the third normal form and creating a 12-entity Enhanced Entity-Relationship Diagram (EERD) to address a real-world business scenario.
 * Designed and implemented a detailed data dictionary that outlines entities, relationships, and attributes, aligning with identified business rules and user requirements for improved data integrity.
