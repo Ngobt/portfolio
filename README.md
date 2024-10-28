@@ -11,7 +11,7 @@ I thrive in collaborative environments and have experience working within Agile 
 
 # Portfolio Projects
 
-## [Project 1: SQL Database System for Ice Cream Truck Business]
+## Project 1: SQL Database System for Ice Cream Truck Business
 
 * Developed a relational database system in Oracle SQL, focusing on normalizing tables to the third normal form and creating a 12-entity Enhanced Entity-Relationship Diagram (EERD) to address a real-world business scenario.
 * Designed and implemented a detailed data dictionary that outlines entities, relationships, and attributes, aligning with identified business rules and user requirements for improved data integrity.
@@ -28,7 +28,7 @@ I thrive in collaborative environments and have experience working within Agile 
 * Developed a comprehensive project report and presentation utilizing the Pyramid Principle to summarize key findings, recommendations, and strategies for enhancing CarMax's operations and customer experience.
 
 
-## [Project 3: NYC Restaurant Inspection Analysis]
+## Project 3: NYC Restaurant Inspection Analysis
 
 * Analyzed the NYC Restaurant Inspection Results dataset, which includes details on health inspections, violation descriptions, and restaurant grades, to enhance food safety transparency.
 * Utilized Python and Jupyter Notebook for data cleaning and exploratory data analysis, applying libraries such as Pandas and Matplotlib for visualization.
@@ -37,7 +37,7 @@ I thrive in collaborative environments and have experience working within Agile 
 * Compiled a comprehensive report summarizing insights and recommendations for improving food safety practices based on the analysis.
 
 
-## [Project 4: Predictive Insights for Employee Retention through Machine Learning]
+## Project 4: Predictive Insights for Employee Retention through Machine Learning
 
 * Equipped organizations with actionable insights to reduce employee turnover and enhance job satisfaction through advanced machine learning techniques.
 * Analyzed factors influencing employee attrition and satisfaction using Python for data manipulation and predictive modeling.
