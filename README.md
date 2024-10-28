@@ -1,4 +1,12 @@
-# Data Analyst
+# Brandon's Portfolio
+
+#About Me
+
+* I am an aspiring data scientist with a Bachelor of Science in Information Systems from Virginia Commonwealth University, set to graduate in December 2024. My passion lies in leveraging data to drive strategic decision-making and create impactful solutions.
+
+* With expertise in Python, SQL, and cloud technologies, I have hands-on experience in data visualization tools like Power BI and Tableau, where I design intuitive dashboards that communicate complex insights. My recent projects include developing a relational database system in Oracle SQL and applying machine learning techniques to analyze employee attrition factors, generating actionable insights for HR decision-making.
+
+* I thrive in collaborative environments and have experience working within Agile Scrum frameworks, enabling me to adapt quickly to changing project requirements. I am eager to contribute to data-driven initiatives that enhance business performance and foster informed decision-making. Explore my portfolio to see how I can add value to your team!
 
 # [Project 1: SQL Database System Design for Ice Cream Truck Business]
 
