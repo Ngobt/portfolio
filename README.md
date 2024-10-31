@@ -2,7 +2,7 @@
 #### Technical Skills: Python, Tableau, Knime, Power BI, SQL, Pandas, Numpy, Matplotlib
 
 ## About Me
-I am an aspiring data scientist with a Bachelor of Science in Information Systems from Virginia Commonwealth University, set to graduate in December 2024. My passion lies in leveraging data to drive strategic decision-making and create impactful solutions.
+I am an aspiring data analyst with a Bachelor of Science in Information Systems from Virginia Commonwealth University, set to graduate in December 2024. My passion lies in leveraging data to drive strategic decision-making and create impactful solutions.
 
 With expertise in Python, SQL, and cloud technologies, I have hands-on experience in data visualization tools like Power BI and Tableau, where I design intuitive dashboards that communicate complex insights. My recent projects include developing a relational database system in Oracle SQL and applying machine learning techniques to analyze employee attrition factors, generating actionable insights for HR decision-making.
 
