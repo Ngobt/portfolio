@@ -1,5 +1,8 @@
 title: Brandon Ngo
 logo: /assets/img/headshot_circular.png
-description: "I’m Brandon Ngo, an aspiring data analyst with a Bachelor of Science in Information Systems from Virginia Commonwealth University, graduating in December 2024. I am passionate about using data to solve problems and uncover insights that drive better decision-making. I specialize in Python, SQL, and cloud technologies, and I have hands-on experience creating data visualizations with tools like Power BI and Tableau. My projects range from building efficient database systems to uncovering actionable insights through machine learning and analytics. I thrive in collaborative, Agile environments and excel at adapting to dynamic challenges."
+description: |
+  I’m Brandon Ngo, an aspiring data analyst with a Bachelor of Science in Information Systems from Virginia Commonwealth University, graduating in December 2024. I am passionate about using data to solve problems and uncover insights that drive better decision-making.
+
+  I specialize in Python, SQL, and cloud technologies, and I have hands-on experience creating data visualizations with tools like Power BI and Tableau. My projects range from building efficient database systems to uncovering actionable insights through machine learning and analytics. I thrive in collaborative, Agile environments and excel at adapting to dynamic challenges.
 show_downloads: false
 theme: jekyll-theme-minimal
