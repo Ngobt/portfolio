@@ -1,7 +1,3 @@
-Here’s a polished and humanized version of your README file, with projects better organized for clarity and impact:
-
----
-
 # **Data Analyst | Business Analyst | Data Scientist**  
 **Technical Skills:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn), Tableau, Knime, Microsoft Power BI, MySQL  
 
