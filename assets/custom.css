@@ -1,0 +1,11 @@
+/* Custom Styles for Portfolio */
+img.profile-pic {
+  display: block;
+  margin: 0 auto; /* Centers the image */
+  margin-bottom: 30px; /* Adds space below the image */
+}
+
+.description {
+  margin-top: 20px; /* Adds space above description text */
+  line-height: 1.6; /* Improves readability */
+}
