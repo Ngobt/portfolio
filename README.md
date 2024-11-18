@@ -1,4 +1,4 @@
-# **Data Analyst | Business Analyst | Data Scientist**  
+# **Data Analyst | Business Analyst**  
 **Technical Skills:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn), Tableau, Knime, Microsoft Power BI, MySQL  
 
 ---
