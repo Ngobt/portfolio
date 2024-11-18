@@ -28,7 +28,7 @@ If you’re looking for someone who can transform raw data into impactful soluti
 - **Visualization:** Developed an interactive Power BI dashboard visualizing sentiment trends, critic behaviors, and publication patterns, integrating dynamic slicers for filtering by genre, time period, and sentiment polarity.  
 - **Impact:** Enhanced stakeholder decision-making by providing actionable insights into critic behaviors, review trends, and patterns in movie ratings across genres and platforms.
 
-![image alt]
+![image alt](assets/img/critic_review_analysis.PNG)
 
 ---
 
@@ -41,7 +41,7 @@ If you’re looking for someone who can transform raw data into impactful soluti
 - Applied Scrum methodology to iteratively refine insights and align deliverables with business needs.  
 - Presented actionable recommendations to reduce turnover and enhance employee engagement.  
 
-![image alt]
+![image alt](assets/img/Retention analysis.PNG) ![image alt](assets/img/Education Analysis.PNG)
 
 ---
 ### **NYC Restaurant Inspection Analysis**  
@@ -52,6 +52,8 @@ If you’re looking for someone who can transform raw data into impactful soluti
 - Built predictive models to identify factors associated with high-performing restaurants and recurring violations.  
 - Designed visualizations that highlighted key trends and insights for stakeholders.  
 - Compiled recommendations to improve health and safety compliance in NYC restaurants.
+
+![image alt](assets/img/NYC_analysis.PNG)
 
 ---
 
