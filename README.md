@@ -6,7 +6,7 @@
 ## **Projects**  
 
 
-### **Sentiment Analysis of Movie Critic Reviews**  
+### **[Sentiment Analysis of Movie Critic Reviews](https://github.com/Ngobt/Critic-Review-Analysis)**  
 **Summary:** Leveraged Python and Power BI to analyze and visualize sentiment trends in a dataset of 27,000+ movie critic reviews.  
 **Tools:** Python, SQL, Power BI  
 
