@@ -40,7 +40,7 @@
 - Designed visualizations that highlighted key trends and insights for stakeholders.  
 - Compiled recommendations to improve health and safety compliance in NYC restaurants.
 
-![image alt](assets/img/NYC_analysis.PNG)
+![image alt](assets/img/NYC_analysis_preview.PNG)
 
 ---
 
